@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/gruthdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gruthdev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gruthdev" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gruthdev" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +31,7 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=circle" 
+       src="https://github-readme-stats.vercel.app/api?username=VigilanteDev1&show_icons=true&theme=tokyonight&rank_icon=circle" 
        alt="GitHub Stats" />
 </p>
 
@@ -37,6 +39,6 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigilanteDev1&layout=compact&theme=tokyonight" 
        alt="Top Languages" />
 </p>
